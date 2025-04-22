@@ -1,2 +1,2 @@
-# 05_product_return_202401100300055
-We'll build a machine learning model to predict if a product will be returned, using features such as purchase amount, review score, and delivery time. This helps e-commerce platforms reduce losses and improve logistics.
+This project aims to predict whether a purchased product will be returned or not based on key features such as purchase amount, review score, and delivery time. The dataset is preprocessed and analyzed using Python, and a Logistic Regression model is trained for classification. The model is evaluated using accuracy, classification report, and confusion matrix to understand its performance. This project helps in identifying patterns in customer returns, which can be useful for improving product quality and customer satisfaction.
+
